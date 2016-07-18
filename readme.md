@@ -8,7 +8,7 @@ Project 2 will really test your new skills, bringing weeks of knowledge together
 
  The project will be spread across **two weeks** (one week of lessons, and one solid week of implementation), with separate deliverables due at the end of each week. Although the deliverables will be separate, we will be incorporating them all into a single app, expanding upon the previous week's work.
 
-Be creative! You can do whatever you want, as long as it meets the project requirements and the [student code of conduct](../code-of-conduct.md).
+Be creative! You can do whatever you want, as long as it meets the project requirements and the [student code of conduct](https://github.com/ga-adi-nyc/Course-Materials/blob/master/markdown/code-of-conduct.md).
 
 Also, for this project, you will be providing mock data (i.e. you will not be connecting to the internet to download data). However, to make your lives easier, you are allowed to use the [Glide photo library](https://github.com/bumptech/glide) if you want to load images from the web.
 
@@ -67,14 +67,6 @@ Your work must:
 
 ---
 
-#### Code of Conduct
-
-As always, your app must adhere to General Assembly's [student code of conduct guidelines](../../../resources/guidelines/code-of-conduct.md).
-
-If you have questions about whether or not your work adheres to these guidelines, please speak with a member of your instructional team.
-
----
-
 #### Necessary Deliverables
 
 **Week 5:**
@@ -97,7 +89,7 @@ If you have questions about whether or not your work adheres to these guidelines
 
 #### Code of Conduct
 
-As always, your app must adhere to General Assembly's [student code of conduct guidelines](../code-of-conduct.md).
+As always, your app must adhere to General Assembly's [student code of conduct guidelines](https://github.com/ga-adi-nyc/Course-Materials/blob/master/markdown/code-of-conduct.md).
 
 If you have questions about whether or not your work adheres to these guidelines, please speak with a member of your instructional team.
 
