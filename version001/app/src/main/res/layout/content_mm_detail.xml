@@ -36,6 +36,7 @@
     <ImageView
         android:layout_width="300dp"
         android:layout_height="400dp"
+        android:id="@+id/detailImage"
         android:src="@drawable/aa"
         android:scaleType="fitXY"
         android:layout_centerVertical="true"
