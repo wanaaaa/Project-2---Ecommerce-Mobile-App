@@ -12,7 +12,7 @@
         jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="4a4c8f3764e06292775baa3d96d9e77c9e34f958">
+        sha1="04705f765c2f7c54a7d2c5d92ae6193d7d255b9e">
         <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2037efebafe8735de61a62dd0abc9b59305e6417/classes.dex" />
     </item>
     <item
@@ -75,8 +75,15 @@
         jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="24d13753ea2616aa8fa6457aef8345cf240aa73b">
+        sha1="a47ea8789776a4b7cc0eb875075b8d1a157a8a9e">
         <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_01392254291316189c781f3774a65dc6c55c9d86/classes.dex" />
+    </item>
+    <item
+        jar="/home/ubun17/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.4.0_3fe8d2ee98caf7149646d33ef6b4a975956c0bb1/classes.dex" />
     </item>
     <item
         jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
