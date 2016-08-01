@@ -67,4 +67,5 @@ public class ContactFragment extends Fragment {
 //        adapter.notifyDataSetChanged();
 
     }
+
 }
