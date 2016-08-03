@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_cf0951f12f7db3421e78adca9e021f604a9130f8/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.1.1_ef62634a5669851f023df28b07fe756427fd9a98/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_6bc7006f96643a5299c4ac5d1abeb264d4fcfe2d/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.1.1_db72dc420187e10409e98d0e38971f0cd019995e/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_89864fc20cacfa99efd9c76bee5843cbe1ead6ab/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="32ec643eecb52808e3045dcd464310548f28146a">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_59c4f9f7f827a4de3da7e25e22504acebbd65e34/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_450c751664bd04ec052ef683f78748ffd1d294f0/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0b9c3adfec2783e81b6824064f823889e1f7d5dd">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1491225f8a3e91d6110dad52bb9d811439bd0ff3/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_854aaf990657f1300a9ff2e4e5fbc01d56399d2a/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_8191820ce559d2bc770643fead3e0900740a8160/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_c501623add5d10d5914273e056abc24196cc1a4f/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_31bb577a7d6a58342786e670fc294b1d4628eb22/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_776061641f597bb0918bb9ab79f8f3d9a1d6631b/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6d1223a0b6a0eab49a6f49d136e9f8dfab0e1fb0">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_01392254291316189c781f3774a65dc6c55c9d86/classes.dex" />
+    </item>
+    <item
+        jar="/home/ubun17/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.4.0_3fe8d2ee98caf7149646d33ef6b4a975956c0bb1/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_d511e0396a608aad9cdff10d918bd08968763d03/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_c6e532f2c6c5985d1602c116a219076c43c0e6c9/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_bec769b6e187aadc65ea305cc8bfc647f729a8a1/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="10a11161218564b06449f1b7819ec90a6cecfe7e">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2037efebafe8735de61a62dd0abc9b59305e6417/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_c7e59a277b10ca260dd4aec4ed059baadb556adf/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_8318e7d37a0399af4486b6825dba25772c3f5169/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_14f36c560840cd2cdd58981de4381d553c2b1916/classes.dex" />
+    </item>
+    <item
+        jar="/home/ubun17/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/version001/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_eae46b313c89763b470e7ec87fb92518009fe341/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_b972e2679b4ea2b9a2c3706d75f2c02b6b3048a5/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_66fabaa7cb92a1c3887bca6123a20490bb42baea/classes.dex" />
+    </item>
+    <item
+        jar="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/documents_wan/000Android/project/Project-2---Ecommerce-Mobile-App/versionThread/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_a628cb74c251edcecca1d81d03e2a09b584ed766/classes.dex" />
+    </item>
+
+</items>
