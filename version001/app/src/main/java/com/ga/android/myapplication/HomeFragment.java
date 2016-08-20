@@ -21,6 +21,8 @@ public class HomeFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.home, container, false);
 
         buttonDataInput = (Button) rootView.findViewById(R.id.shoppingListInput);
+
+        //When this button is clicked, it goes to other screen to save item.
         buttonDataInput.setOnClickListener(new View.OnClickListener() {
 
             @Override

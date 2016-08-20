@@ -11,8 +11,6 @@ import android.widget.Toast;
 
 import java.util.List;
 
-import static android.support.v4.app.ActivityCompat.startActivity;
-
 /**
  * Created by wanmac on 7/26/16.
  */
@@ -72,19 +70,7 @@ public class AdapterItemAll extends RecyclerView.Adapter<VHolderItemDetail>{
             }
         };
 
-//        View.OnClickListener delItemCart = new View.OnClickListener(){
-//            @Override
-//            public void onClick(View view) {
-////                DaCartList cartArray = DaCartList.getInstance();
-////                cartArray.removeAnItem(position);
-//                Toast.makeText(view.getContext(), "Do not remove me",
-//                        Toast.LENGTH_SHORT ).show();
-//            }
-//        };
-
         holder.mBuGoCart.setOnClickListener(clickToCart);
-
-        //holder.mDelItemCart.setOnClickListener(delItemCart);
 
         holder.itemView.setOnClickListener(clickDetail);
     }
@@ -94,6 +80,7 @@ public class AdapterItemAll extends RecyclerView.Adapter<VHolderItemDetail>{
         return mIndiItems.size();
     }
 
+    //When data is changed, it notify and then eventually refresh the screen with changed dat.
     public void notifyWan(int position) {
         notifyItemChanged(position);
         notifyItemRangeChanged(position, mIndiItems.size());

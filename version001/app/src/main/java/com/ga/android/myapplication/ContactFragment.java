@@ -58,14 +58,6 @@ public class ContactFragment extends Fragment {
         adapter.notifyDataSetChanged();
 
 
-//        SQhelper helper;
-//        helper = SQhelper.getInstance(getActivity());
-//        ArrayList<DaIndiItem> data = helper.returnAllArrayList();
-//        AdapterItemAll adapter = new AdapterItemAll(data);
-//        //adapter.notifyDataSetChanged();
-//        mRecyclerView.setAdapter(adapter);
-//        adapter.notifyDataSetChanged();
-
     }
 
 }
