@@ -1,0 +1,12 @@
+1. Add comment
+-  DaCartList, DaInditem, DaListOfItems
+MainActivity,Home Fragemtn
+
+2. Add espresso test
+
+3. Add picasso.The detail photo comes from picasso and
+The photo is saved in Photobucket.
+http://s5.photobucket.com/
+
+All of them are working..
+
